@@ -1,4 +1,4 @@
-# PWhat's the Weather Like?
+# What's the Weather Like?
 
 ## Background
 
